@@ -1,0 +1,161 @@
+@charset "UTF-8";
+/* CSS Document */
+.rowK{padding-top: 20px;
+    padding-left: 70px;
+padding-bottom: 20px;}
+
+#d1 {background-image: url("student activities pics/studyTour_title.png");
+	background-size: cover;
+	width: 770px; 
+	height: 350px;
+	
+}
+#d1:hover {
+	background-image: url("student activities pics/studytourTitle2.png");
+	transform: scale(1.1);
+}
+#d2 {background-image: url("student activities pics/visit1.png");
+	background-size: cover;
+	width: 770px; 
+	height: 350px;
+	
+}
+#d2:hover {
+	background-image: url("student activities pics/visit2.png");
+	transform: scale(1.1);
+}
+#d3 {background-image: url("student activities pics/intern1.png");
+	background-size: cover;
+	width: 770px; 
+	height: 350px;
+	
+}
+#d3:hover {
+	background-image: url("student activities pics/intern2.png");
+	transform: scale(1.1);
+}
+#d4 {background-image: url("student activities pics/com1.png");
+	background-size: cover;
+	width: 770px; 
+	height: 350px;
+	
+}
+#d4:hover {
+	background-image: url("student activities pics/com2.png");
+	transform: scale(1.1);
+}
+#d5 {background-image: url("student activities pics/fyp.png");
+	background-size: cover;
+	width: 770px; 
+	height: 350px;
+	
+}
+#d5:hover {
+	background-image: url("student activities pics/fyp2.png");
+	transform: scale(1.1);
+}
+#d6 {background-image: url("student activities pics/lab1.png");
+	background-size: cover;
+	width: 770px; 
+	height: 350px;
+	
+}
+#d6:hover {
+	background-image: url("student activities pics/lab2.png");
+	transform: scale(1.1);
+}#programmesK {
+	background-color: rgba(255,255,255,0.8);}
+.omg:hover{
+	transform: scale(0.8);
+}
+#kam{padding-bottom: 2100px;
+background-color:rgba(255,255,255,0.00);}
+
+#kamkam{padding-bottom: 4200px;
+background-color:rgba(255,255,255,0.00);}
+
+#siukam{padding-bottom: 200px;
+background-color:rgba(255,255,255,0.00);}
+
+.aa{
+height: 350px;	
+	
+}
+
+.careers{
+	height: 400px;
+}
+.staff{
+	height: 400px;
+}
+
+
+
+.imgK{width:850px;
+	height:460px;}
+.Arange{
+	color: rgba(0,0,0,1.00);
+}
+#introK{
+	font-family:"stint-ultra-condensed";
+	text-align:justify;
+	font-size: 24px;
+}
+@media (max-width:992px) {
+  .imgK {
+    width: 100%;
+	height: 120%;
+  }
+}
+@media (max-width:992px) {
+  .rowK {
+   padding-left:0px;
+  }
+}
+@media (max-width:992px) {
+  #programmesK {
+   margin-top: 30px;
+  }
+}
+@media (max-width:992px){
+	#d1 {
+	width: 500px!important;
+	height: 300px!important;
+	background-size: cover;
+	}
+}
+@media (max-width:992px){
+	#d2 {
+	width: 500px!important;
+	height: 300px!important;
+	background-size: cover;
+	}
+}
+@media (max-width:992px){
+	#d3 {
+	width: 500px!important;
+	height: 300px!important;
+	background-size: cover;
+	}
+}
+@media (max-width:992px){
+	#d4 {
+	width: 500px!important;
+	height: 300px!important;
+	background-size: cover;
+	}
+}
+@media (max-width:992px){
+	#d5 {
+	width: 500px!important;
+	height: 300px!important;
+	background-size: cover;
+	}
+}
+@media (max-width:992px){
+	#d6 {
+	width: 500px!important;
+	height: 300px!important;
+	background-size: cover;
+	}
+}

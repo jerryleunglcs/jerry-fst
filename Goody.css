@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@media (max-width:767px){
+	#lamlamgod{
+	width: 70% !important;
+}
+}
+
+
+@media (max-width: 767px){
+.hatehtml{
+	width: 300px;
+	}
+}
+
+
+@media(max-width:767px){
+#kamg{
+	
+	padding-bottom: 50px;
+   } 
+}
+@media (min-width:768px) and (max-width:991px){
+	.hatehtml{
+		width: 235px !important;
+	}
+}
+
+@media (min-width:768px) and (max-width:991px){
+	.col-md-8{
+	text-align: right !important;	
+	}
+}
+
+@media (min-width:992px){
+	.hatehtml{
+		width: 300px !important;
+	}
+}
