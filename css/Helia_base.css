@@ -1,0 +1,497 @@
+.btn.btn-primary.indexL {
+  width: 260px;
+  height: 92.8876px;
+  box-sizing: border-box;
+  display: inline-block;
+  letter-spacing: .06em;
+  background-color: rgba(120, 200, 255, .2);
+  border: 1px solid rgba(120, 200, 255, .6);
+  color: rgb(255,255,255);
+  padding: 0 1em 1em;
+  font-size: 17px;
+  text-transform: uppercase;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-family: "Exo 2", Arial, sans-serif";
+  padding: 14px;
+}
+
+.CourseBtn {
+  width: 100%;
+  height: 80px;
+  box-sizing: border-box;
+  display: inline-block;
+  letter-spacing: .06em;
+  background-color: rgba(169,202,241,0.5);
+  border: 1px solid rgba(120, 200, 255, .6);
+  color: rgb(255,255,255);
+  padding: 0 1em 1em;
+  font-size: 16px;
+  text-transform: uppercase;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-family: "Exo 2", Arial, sans-serif;
+  padding: 17px;
+}
+
+
+.btn.btn-primary.indexL:hover {
+  background-color: rgba(120, 200, 255, .6);
+}
+
+CourseBtn:hover {
+  background-color: rgba(120, 200, 255, .6);
+}
+
+
+
+.btn.btn-primary.indexL:active {
+  background-color: rgba(120, 200, 255, .6);
+}
+
+.container.header {
+  margin-top: 30px;
+}
+
+button {
+	font-family: "Exo 2", sans-serif;
+}
+
+body {
+  background-image: url("../../assets/img/bg_test.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#programmes {
+  background-color: rgba(1,18,44,0.8);
+}
+
+.container.program {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  margin-bottom: -15px;
+}
+
+#header {
+  height: 660px;
+  /*min-height: 90vh;*/
+}
+
+h1 {
+  font-size: 40px;
+  font-family: 'Exo 2', sans-serif;
+  color: rgb(255,255,255);
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 30px;
+  color: rgb(255,255,255);
+  text-transform: uppercase;
+  font-family: 'Exo 2', sans-serif;
+  margin-bottom: -5px;
+}
+
+h3 {
+  font-size: 30px;
+  color: rgb(255,255,255);
+  text-transform: uppercase;
+  font-family: 'Exo 2', sans-serif;
+  margin-bottom: 18px;
+}
+
+h4 {
+  font-size: 23px;
+  color: rgb(255,255,255);
+  text-transform: uppercase;
+  font-family: 'Exo 2', sans-serif;
+  margin: 0px;
+}
+
+p {
+  font-size: 20px;
+  color: rgb(255,255,255);
+  font-family: 'Cambay', sans-serif;
+}
+
+.prog {
+  height: 430px;
+}
+
+.progbtn {
+  font-family: 'Cabin';
+  text-transform: uppercase;
+  font-size: 16px;
+  background-color: rgb(21,27,84);
+  border: 0px;
+  width: 165px;
+  height: 50px;
+  margin-top: 20px;
+}
+
+.progbtn:hover {
+  background-color: rgba(21,27,84,0.7);
+  border: 0px;
+}
+
+.progbtn:active {
+  background-color: rgba(21,27,84,0.7);
+  border: 0px;
+}
+
+#footer {
+  background-color: #000000;
+  height: 376px;
+}
+
+.container.footer {
+  margin: 15px;
+  padding: 35px;
+}
+
+.footerp {
+  font-size: 12px;
+}
+
+.progpic {
+  height: 172px;
+  padding-left: 50px;
+}
+
+.network01 {
+  height: 57px;
+  margin-top: -83px;
+  margin-left: -166px;
+}
+
+.network02 {
+  height: 57px;
+  margin-top: -117px;
+  margin-left: 76px;
+}
+
+.network03 {
+  height: 57px;
+  margin-top: 125px;
+  margin-left: -182px;
+}
+
+.network04 {
+  height: 57px;
+  margin-top: 126px;
+  margin-left: -48px;
+}
+
+.cloud {
+  height: 44px;
+  margin-left: -53px;
+  margin-top: -82px;
+}
+
+.analysis01 {
+  height: 32px;
+  margin-left: -106px;
+  margin-bottom: -85px;
+}
+
+.analysis02 {
+  height: 32px;
+  margin-left: -6px;
+  margin-bottom: -112px;
+}
+
+.analysis03 {
+  height: 32px;
+  margin-left: -8px;
+  margin-bottom: -79px;
+}
+
+.people02 {
+  height: 172px;
+}
+
+.bubble {
+  height: 20%;
+  padding-left: 86px;
+  margin-bottom: 20px;
+}
+
+.pencil {
+  height: 67px;
+  margin-left: -101px;
+  margin-top: -67px;
+}
+
+#header .container.header .row .col {
+  height: 100px;
+}
+
+#programmes .container.program .row .col {
+  padding-bottom: 63px;
+}
+
+.navigation-clean {
+  background: #ffffff;
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  color: #000000;
+  border-radius: 0;
+  box-shadow: none;
+  border: none;
+  margin-bottom: 0;
+}
+
+@media (min-width:768px) {
+  .navigation-clean {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+}
+
+.navigation-clean .navbar-brand {
+  font-weight: bold;
+  color: inherit;
+}
+
+.navigation-clean .navbar-brand:hover {
+  color: #000000;
+}
+
+.navigation-clean .navbar-toggler {
+  border-color: #dddddd;
+}
+
+.navigation-clean .navbar-toggler:hover, .navigation-clean .navbar-toggler:focus {
+  background: none;
+}
+
+.navigation-clean .navbar-toggler {
+  color: #000000;
+}
+
+.navigation-clean .navbar-collapse, .navigation-clean .form-inline {
+  border-top-color: #ddd;
+}
+
+.navigation-clean.navbar-light .navbar-nav .nav-link.active, .navigation-clean.navbar-light .navbar-nav .nav-link.active:focus, .navigation-clean.navbar-light .navbar-nav .nav-link.active:hover {
+  color: #000000;
+  box-shadow: none;
+  background: none;
+  pointer-events: none;
+}
+
+.navigation-clean.navbar .navbar-nav .nav-link {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.navigation-clean.navbar-light .navbar-nav .nav-link {
+  color: #000000;
+}
+
+.navigation-clean.navbar-light .navbar-nav .nav-link:focus, .navigation-clean.navbar-light .navbar-nav .nav-link:hover {
+  color: #000000 !important;
+  background-color: transparent;
+}
+
+.navigation-clean .navbar-nav > li > .dropdown-menu {
+  margin-top: -5px;
+  box-shadow: none;
+  background-color: #fff;
+  border-radius: 2px;
+}
+
+.navigation-clean .dropdown-menu .dropdown-item:focus, .navigation-clean .dropdown-menu .dropdown-item {
+  line-height: 2;
+  color: #000000;
+}
+
+.navigation-clean .dropdown-menu .dropdown-item:focus, .navigation-clean .dropdown-menu .dropdown-item:hover {
+  background: #eee;
+  color: inherit;
+}
+
+.nav-item {
+  margin-left: 18px;
+  font-size: 14px;
+}
+
+.navbar {
+  background-color: #FFFFFF;
+  height: 90px;
+}
+
+.nav.navbar-nav.ml-auto {
+  border-bottom: double;
+}
+
+@media (min-width: 992px) {
+  .visibleimg {
+    display: none;
+  }
+}
+
+.video-container {
+	position: fixed;
+  	top: 0;
+  	left: 0;
+  	width: 100%;
+ 	z-index: -1;
+}
+
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: dimgrey; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+
+.nav.navbar-nav.ml-auto {
+  border-bottom: double;
+}
+
+@media (min-width: 992px) {
+  .visibleimg {
+    display: none;
+  }
+}
+
+#ENG01 {
+  width: 686px;
+}
+
+#ENG02 {
+  width: 125px;
+  margin-left: -22px;
+  margin-bottom: -366px;
+}
+
+#ENG03 {
+  width: 350px;
+  height: 87px;
+  background-color: rgba(17,50,101,0.8);
+  border-right: 4px solid;
+  margin-left: 315px;
+  margin-top: -50px;
+  font-size: 17px;
+}
+
+#icon {
+  width: 65px;
+  margin-top: -1297px;
+  margin-left: 540px;
+}
+
+#show {
+  height: 805px;
+  padding: 0px;
+}
+
+.course01 {
+  padding: 0px;
+}
+
+.heading {
+  color: #000000;
+  margin-top: -570px;
+}
+
+.paragraph {
+  color: #000000;
+  padding-left: 36px;
+  padding-right: 36px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+.choice {
+  color: #000000;
+  padding-left: 36px;
+  width: 480px;
+  margin-bottom: 0px;
+}
+
+.uni {
+  color: #000000;
+  margin-left: 579px;
+  margin-top: -146px;
+  width: 558px;
+  font-size: 15px;
+}
+
+#cityu {
+  display: none;
+}
+
+#cityuni:hover ~ #cityu {
+  display: block;
+}
+
+#polyu {
+  display: none;
+}
+
+#polyuni:hover ~ #polyu {
+  display: block;
+}
+
+#ust {
+  display: none;
+}
+
+#ustuni:hover ~ #ust {
+  display: block;
+}
+
+#cu {
+  display: none;
+}
+
+#cuni:hover ~ #cu {
+  display: block;
+}
+
+#hku {
+  display: none;
+}
+
+#hkuni:hover ~ #hku {
+  display: block;
+}
+
+
+
+
+#progchart {
+  width: 56%;
+}
+
+#paragraph08 {
+  padding: 0px;
+}
+
+
+
+#Name{
+	font-size: 25px;!important
+}
